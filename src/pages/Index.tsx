@@ -228,7 +228,7 @@ export default function Index() {
             <h3 className="text-2xl font-bold text-white">BeePlanet</h3>
           </div>
           <p className="text-gray-400 mb-4">
-            IP: <span className="text-yellow-400 font-mono">play.beeplanet.ru</span>
+            IP: <span className="text-yellow-400 font-mono">mc.beeplanet.fun</span>
           </p>
           <div className="flex justify-center space-x-4">
             <Button variant="ghost" size="sm" className="text-gray-400 hover:text-white">
